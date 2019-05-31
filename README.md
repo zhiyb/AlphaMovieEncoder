@@ -1,0 +1,1 @@
+﻿﻿﻿﻿﻿AlphaMovieEncoder command line tool============Created from http://kaede-software.com/krlm/plugin/Because using the GUI tool is too inefficient
